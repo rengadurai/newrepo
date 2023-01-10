@@ -62,6 +62,8 @@ public class UseStaff {
 		Staff[] arr = {s1,s2,s3,s4,s5};
 		System.out.println(Staff.getHighStaff(arr).name);
 		
+		System.out.println("hai");
+		
 	}
 
 }
